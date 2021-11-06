@@ -1,5 +1,5 @@
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
-![legend-build](https://github.com/finos/legend-studio/workflows/legend-build/badge.svg)
+![legendary-build](https://github.com/finos/legend-studio/workflows/legend-build/badge.svg)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=legend-studio&metric=security_rating&token=1649412014267d7d7a6833643cb3133afe0137b0)](https://sonarcloud.io/dashboard?id=legend-studio)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=legend-studio&metric=bugs&token=1649412014267d7d7a6833643cb3133afe0137b0)](https://sonarcloud.io/dashboard?id=legend-studio)
 
@@ -40,7 +40,7 @@ Read our [contributing guide](./CONTRIBUTING.md) to learn about our development 
 
 ### License
 
-Copyright 2020 Goldman Sachs
+Copyright 2021 Goldman Sachs
 
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
